@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     {
+        "id": "v15",
+        "releasedAt": 1761858565533,
+        "promotions": {
+            "downloads": {
+                "generic": "https://drive.proton.me/urls/XH7MJXSM9M#EyUAT3tIOpNA"
+            }
+        }
+    }
   ]
 }
